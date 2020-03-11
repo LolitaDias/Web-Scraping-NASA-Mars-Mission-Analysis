@@ -6,7 +6,7 @@ In this assignment, we have built a web application that scrapes various website
 
 Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape and store the required data, and Python with Flask was used to automate those processes. HTML with Bootstrap CSS was used to generate and format the completed webpage presenting the scraped data.
 
-### Before You Begin
+
 
 1. Create a new repository for this project called `web-scraping-challenge`. **Do not add this homework to an existing repository**.
 
