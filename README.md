@@ -76,7 +76,6 @@ hemisphere_image_urls = [
 - - -
 
 ## Step 2 - MongoDB and Flask Application
-
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
