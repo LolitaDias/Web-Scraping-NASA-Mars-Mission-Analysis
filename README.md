@@ -11,7 +11,6 @@ Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape
 
 
 
-3. Inside your local git repository, create a directory for the web scraping challenge. Use a folder name to correspond to the challenge: **Missions_to_Mars**.
 
 4. Add your notebook files to this folder as well as your flask app.
 
