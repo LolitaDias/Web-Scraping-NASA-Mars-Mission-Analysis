@@ -9,7 +9,7 @@ Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape
 
 
 
-2. Clone the new repository to your computer.
+
 
 3. Inside your local git repository, create a directory for the web scraping challenge. Use a folder name to correspond to the challenge: **Missions_to_Mars**.
 
