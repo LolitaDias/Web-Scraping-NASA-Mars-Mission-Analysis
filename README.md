@@ -16,8 +16,6 @@ Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, an
 
 * Scrape the [NASA Mars News Site](https://mars.nasa.gov/news/) and collect the latest News Title and Paragraph Text. Assign the text to variables that you can reference later.
 
-```python
-# Example:
 
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
