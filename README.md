@@ -34,9 +34,7 @@ news_p = "Preparation of NASA's next spacecraft to Mars, InSight, has ramped up 
 * Make sure to save a complete url string for this image.
 
 ```python
-# Example:
-featured_image_url = 'https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA16225_hires.jpg'
-```
+
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
