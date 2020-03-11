@@ -14,7 +14,6 @@ Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, an
 
 ### NASA Mars News
 
-
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
