@@ -12,7 +12,6 @@ Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape
 
 
 
-4. Add your notebook files to this folder as well as your flask app.
 
 5. Push the above changes to GitHub or GitLab.
 
