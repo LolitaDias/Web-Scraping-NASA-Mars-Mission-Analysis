@@ -96,7 +96,7 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 ## Step 3 - Submission
 
-To submit your work to BootCampSpot, create a new GitHub repository and upload the following:
+
 
 
 
