@@ -38,7 +38,6 @@ news_p = "Preparation of NASA's next spacecraft to Mars, InSight, has ramped up 
 featured_image_url = 'https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA16225_hires.jpg'
 ```
 
-### Mars Weather
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
