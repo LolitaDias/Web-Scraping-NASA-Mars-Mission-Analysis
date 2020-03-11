@@ -106,7 +106,7 @@ To submit your work to BootCampSpot, create a new GitHub repository and upload t
 
 ## Hints
 
-* Use Splinter to navigate the sites when needed and BeautifulSoup to help find and parse out the necessary data.
+
 
 
 
