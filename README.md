@@ -8,7 +8,6 @@ Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape
 
 ## Step 1 - Scraping
 
-
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
