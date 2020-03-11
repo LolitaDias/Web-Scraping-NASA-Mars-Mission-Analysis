@@ -85,7 +85,6 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
   * Store the return value in Mongo as a Python dictionary.
 
-
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
