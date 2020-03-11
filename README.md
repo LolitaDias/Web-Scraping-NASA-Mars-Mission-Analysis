@@ -9,7 +9,6 @@ Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape
 ## Step 1 - Scraping
 
 Complete your initial scraping using Jupyter Notebook, BeautifulSoup, Pandas, and Requests/Splinter.
-
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
