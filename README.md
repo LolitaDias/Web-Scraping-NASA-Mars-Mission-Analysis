@@ -104,7 +104,7 @@ To submit your work to BootCampSpot, create a new GitHub repository and upload t
 
 3. Submit the link to your new repository to BootCampSpot.
 
-## Hints
+
 
 
 
