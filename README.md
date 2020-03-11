@@ -13,7 +13,7 @@ Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape
 
 
 
-5. Push the above changes to GitHub or GitLab.
+
 
 ## Step 1 - Scraping
 
