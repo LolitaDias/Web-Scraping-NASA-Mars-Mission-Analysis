@@ -39,7 +39,6 @@ featured_image_url = 'https://www.jpl.nasa.gov/spaceimages/images/largesize/PIA1
 ```
 
 ### Mars Weather
-
 ![final_app_part1.png](Images/final_app_part1.png)
 ![final_app_part2.png](Images/final_app_part2.png)
 
