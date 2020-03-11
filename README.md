@@ -98,7 +98,7 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 To submit your work to BootCampSpot, create a new GitHub repository and upload the following:
 
-1. The Jupyter Notebook containing the scraping code used.
+
 
 
 
