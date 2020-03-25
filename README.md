@@ -1,8 +1,8 @@
-# Web Scraping Homework - Mission to Mars
+# Web Scraping - Mission to Mars
 
 ![mission_to_mars](Images/mission_to_mars.png)
 
-In this assignment, we have built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+In this project, we have built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
 Python with Splinter, BeautifulSoup, and Pandas, and MongoDB were used to scrape and store the required data, and Python with Flask was used to automate those processes. HTML with Bootstrap CSS was used to generate and format the completed webpage presenting the scraped data.
 
